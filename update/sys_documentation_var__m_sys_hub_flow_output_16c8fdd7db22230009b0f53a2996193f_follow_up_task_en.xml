@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="follow_up_task" label="Follow-up task" language="en" table="var__m_sys_hub_flow_output_16c8fdd7db22230009b0f53a2996193f">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>follow_up_task</element>
+            <help/>
+            <hint/>
+            <label>Follow-up task</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_output_16c8fdd7db22230009b0f53a2996193f</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-28 12:21:06</sys_created_on>
+            <sys_id>5ac8fdd7db22230009b0f53a29961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Follow-up task</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_237594_needit_sp">20ae3c47dbe6a30009b0f53a299619d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">20ae3c47dbe6a30009b0f53a299619d0</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_16c8fdd7db22230009b0f53a2996193f_follow_up_task_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-28 12:21:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
